@@ -25,7 +25,7 @@ The value distribution is as follows:
   - 4 dots: [12 to 15, twice each]
   
 The treasures are grouped by dot level and shuffled within their group. Each group is then placed to form a linear path from 
-low to high dot count, starting with the 1-dot treasures at the submarine and .
+low to high dot count, starting with the 1-dot treasures at the submarine.
 The oxygen counter is initialized at 25 and all players are placed in the submarine, facing forward.
 The players then take turns until the oxygen runs out, or all players make it back safely to the submarine.
 
