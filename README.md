@@ -24,7 +24,7 @@ The value distribution is as follows:
   - 3 dots: [8 to 11, twice each]
   - 4 dots: [12 to 15, twice each]
   
-The tresures are grouped by dot level and shuffled within their group. Each group is then placed to form a linear path from 
+The treasures are grouped by dot level and shuffled within their group. Each group is then placed to form a linear path from 
 low to high dot count, starting with the 1-dot treasures at the submarine and .
 The oxygen counter is initialized at 25 and all players are placed in the submarine, facing forward.
 The players then take turns until the oxygen runs out, or all players make it back safely to the submarine.
@@ -33,7 +33,7 @@ The players then take turns until the oxygen runs out, or all players make it ba
 Taking turns in clockwise order, each player does the following actions:
   1. Decrease the shared oxygen counter by the number of treasures they currently hold
   2. Decide if they will proceed deeper or turn towards the submarine. Players can only turn around once per round.
-  3. Roll two three-sided dice (a six-sided die with numbers {1, 2, 3, 1, 2, 3}), add the values together and substract the number of treasures they currently hold.
+  3. Roll two three-sided dice (a six-sided die with numbers {1, 2, 3, 1, 2, 3}), add the values together and subtract the number of treasures they currently hold.
   4. Move in the direction they face a number of step given by the total obtained in 3. If another player is in their path, the moving player leaps to the next available tile in a single step.
   5. After performing their last step, the player decides to perform one of the following three actions:
     5a. Do nothing.
