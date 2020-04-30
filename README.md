@@ -97,7 +97,7 @@ A Discrete state made of 83 integer values is used to describe the state. The va
     If there are less than 6 players, the unneeded directions are set to 0
   - 19 to 50: Number of dots for each of the 32 tiles [0-4]<br>
     Blank tiles and tiles that have been removed in a previous round have a dot value of 0.
-  - 51 to 82: Weither each of the 32 tiles will be skipped [0-1].<br>
+  - 51 to 82: Whether each of the 32 tiles will be skipped [0-1].<br>
     A tile is skipped if it was removed in a previous round, or if there is a player sitting on it.
     
     
