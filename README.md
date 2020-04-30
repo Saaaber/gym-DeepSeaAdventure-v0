@@ -35,9 +35,9 @@ Taking turns in clockwise order, each player does the following actions:
   2. Decide if they will proceed deeper or turn towards the submarine. Players can only turn around once per round.
   3. Roll two three-sided dice (a six-sided die with numbers {1, 2, 3, 1, 2, 3}), add the values together and subtract the number of treasures they currently hold.
   4. Move in the direction they face a number of step given by the total obtained in 3. If another player is in their path, the moving player leaps to the next available tile in a single step.
-  5. After performing their last step, the player decides to perform one of the following three actions:
-    5a. Do nothing.
-    5b. If they land on a treasure, they can pick it up without looking at its hidden value and replace it by a blank tile. This tile is now a part of the path, but can't be picked up by other players.
+  5. After performing their last step, the player decides to perform one of the following three actions:<br>
+    5a. Do nothing.<br>
+    5b. If they land on a treasure, they can pick it up without looking at its hidden value and replace it by a blank tile. This tile is now a part of the path, but can't be picked up by other players.<br>
     5c. If they land on a blank tile, they can drop one of their treasures to replace it. This lowers their weight and oxygen consumption.
  
 
